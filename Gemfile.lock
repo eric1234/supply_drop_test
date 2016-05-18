@@ -26,6 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  capistrano
   minitest
   supply_drop
 
