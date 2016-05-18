@@ -1,6 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'minitest'
-
-gem 'capistrano', require: 'capistrano/all'
-gem 'supply_drop'
+gem 'supply_drop', github: 'pitluga/supply_drop'
